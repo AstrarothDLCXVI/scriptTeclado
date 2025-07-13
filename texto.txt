@@ -1,0 +1,3 @@
+Tener instalado python y pip antes y luego el comando de abajo
+
+pip install pygame pynput
